@@ -1,0 +1,3 @@
+[submodule "AirControl/KiCADSymbols"]
+	path = AirControl/KiCADSymbols
+	url = https://github.com/lombo-cmyk/KiCADSymbols
